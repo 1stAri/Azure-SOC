@@ -22,9 +22,9 @@ Several security incidents occured due to the environment being left open to mal
 ![image](https://github.com/user-attachments/assets/5b84884f-e93a-47fb-a698-ba06ba181e6c)
 
 
-## Environment After Hardening / Security Controls
+<!-- ## Environment After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
-
+-->
 The architecture of the mini honeynet in Azure consists of the following components:
 
 - Virtual Network (VNet)
