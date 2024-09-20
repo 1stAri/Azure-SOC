@@ -22,9 +22,10 @@ Several security incidents occured due to the environment being left open to mal
 ![image](https://github.com/user-attachments/assets/5b84884f-e93a-47fb-a698-ba06ba181e6c)
 
 
-<!-- ## Environment After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
--->
+## Environment After Hardening / Security Controls
+![image](https://github.com/user-attachments/assets/6d68a5ca-1c87-4e3b-804b-627692488aa3)
+
+<br /> <br />
 The architecture of the mini honeynet in Azure consists of the following components:
 
 - Virtual Network (VNet)
@@ -57,11 +58,11 @@ Stop Time 2024-09-19 14:19
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 59816
-| Syslog                   | 4874
-| SecurityAlert            | 113
-| SecurityIncident         | 133
-| AzureNetworkAnalytics_CL | 31867
+| SecurityEvent            | 63647
+| Syslog                   | 4945
+| SecurityAlert            | 10
+| SecurityIncident         | 152
+| AzureNetworkAnalytics_CL | 2170
 
 <br /> <br />
 ## Attack Maps After Hardening / Security Controls
@@ -78,8 +79,8 @@ Stop Time 2024-09-20 15:34
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 7501
-| Syslog                   | 21
+| SecurityEvent            | 24278
+| Syslog                   | 0
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
